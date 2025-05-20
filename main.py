@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Telegram Bot bilgileri
-TOKEN = "8007415166:AAE3MW-JWOrwo_1Fh0b0iGepcZpWNhErFSA"
+TOKEN = "8007415166:AAGzlNOhsNlDfuZBqjhOLAIxVp2uimqkqIM"
 CHAT_ID = 1481505017
 
 # Binance bağlantısı
